@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: caladdd/tracker:latest
+        image: caladdd/tracker:2
 
         ports:
         - name: nodejs-port
